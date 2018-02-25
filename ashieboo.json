@@ -2,64 +2,91 @@
   {
     "index": 0,
     "author": {
-      "first": "Perry",
-      "last": "Byers"
+      "first": "Maya",
+      "last": "Angelou"
     },
-    "title": "ANARCO",
-    "quote": "Hello, Perry! You have 5 unread messages."
+    "title": "I've Learned",
+    "quote": "I’ve learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel."
   },
   {
     "index": 1,
     "author": {
-      "first": "Luisa",
-      "last": "Christensen"
+      "first": "Charles",
+      "last": "Swindoll"
     },
-    "title": "BOINK",
-    "quote": "Hello, Luisa! You have 10 unread messages."
+    "title": "Life is what you make it!",
+    "quote": "Life is 10% what happens to you and 90% of how you react to it."
   },
   {
     "index": 2,
     "author": {
-      "first": "Simone",
-      "last": "Boone"
+      "first": "Eleanor",
+      "last": "Roosevelt"
     },
-    "title": "PRIMORDIA",
-    "quote": "Hello, Simone! You have 7 unread messages."
+    "title": "Don't allow anyone to make you feel inferior!",
+    "quote": "Remember no one can make you feel inferior without your consent."
   },
   {
     "index": 3,
     "author": {
-      "first": "Aurora",
-      "last": "Poole"
+      "first": "Jimmy",
+      "last": "Dean"
     },
-    "title": "FANGOLD",
-    "quote": "Hello, Aurora! You have 10 unread messages."
+    "title": "Negative things",
+    "quote": "You can’t change the direction of the wind, but You can adjust my sails to always reach my destination."
   },
   {
     "index": 4,
     "author": {
-      "first": "Dollie",
-      "last": "Hoffman"
+      "first": "Les",
+      "last": "Brown"
     },
-    "title": "QUAREX",
-    "quote": "Hello, Dollie! You have 9 unread messages."
+    "title": "STOP living your fears",
+    "quote": "Too many of us are not living our dreams because we are living our fears."
   },
   {
     "index": 5,
     "author": {
-      "first": "Louisa",
-      "last": "Obrien"
+      "first": "Mark",
+      "last": "Twain"
     },
-    "title": "HANDSHAKE",
-    "quote": "Hello, Louisa! You have 9 unread messages."
+    "title": "For all the things you don't want to do",
+    "quote": "Twenty years from now you will be more disappointed by the things that you didn’t do than by the ones you did do, so throw off the bowlines, sail away from safe harbor, catch the trade winds in your sails. Explore, Dream, Discover."
   },
   {
     "index": 6,
     "author": {
-      "first": "Love",
-      "last": "Vargas"
+      "first": "Michael",
+      "last": "Jordan"
     },
-    "title": "ECRATIC",
-    "quote": "Hello, Love! You have 10 unread messages."
+    "title": "Failure Builds you!",
+    "quote": "I’ve missed more than 9000 shots in my career. I’ve lost almost 300 games. 26 times I’ve been trusted to take the game winning shot and missed. I’ve failed over and over and over again in my life. And that is why I succeed."
+  }
+  {
+    "index": 7,
+    "author": {
+      "first": "Albert",
+      "last": "Einstein"
+    },
+    "title": "Live a valuable life",
+    "quote": "Strive not to be a success, but rather to be of value."
+  }
+  {
+    "index": 8,
+    "author": {
+      "first": "Henry",
+      "last": "Ford"
+    },
+    "title": "The Power of a struggle",
+    "quote": "When everything seems to be going against you, remember that the airplane takes off against the wind, not with it."
+  }
+  {
+    "index": 9,
+    "author": {
+      "first": "Dalai",
+      "last": "Lama"
+    },
+    "title": "The value of lost",
+    "quote": "Remember that not getting what you want is sometimes a wonderful stroke of luck."
   }
 ]
